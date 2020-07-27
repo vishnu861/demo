@@ -1,1 +1,2 @@
-This is just a demo file.
+The demo file is about polymorphism.
+
